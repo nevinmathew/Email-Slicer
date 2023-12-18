@@ -2,12 +2,6 @@
 
 An Email Slicer application built with Python using Tkinter.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Dependencies](#dependencies)
-- [Screenshot](#screenshot)
-
 ## Overview
 
 The Email Slicer app allows users to input their email address and provides information about the username, domain, and the email service provider. If you enter an invalid email address, the application will show an error message.
